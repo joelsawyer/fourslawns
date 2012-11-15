@@ -1,0 +1,17 @@
+#adminmenu #menu-posts-specials div.wp-menu-image {
+	background-image: url('images/custom.png');
+	background-position: 1px -33px;
+}
+#adminmenu #menu-posts-specials.wp-has-current-submenu div.wp-menu-image, #adminmenu #menu-posts-specials:hover div.wp-menu-image {
+	background-image: url('images/custom.png');
+	background-position: 1px -1px;
+}
+
+#adminmenu #menu-posts-tips div.wp-menu-image {
+	background-image: url('images/custom.png');
+	background-position: -29px -33px;
+}
+#adminmenu #menu-posts-tips.wp-has-current-submenu div.wp-menu-image, #adminmenu #menu-posts-tips:hover div.wp-menu-image {
+	background-image: url('images/custom.png');
+	background-position: -29px -1px;
+}
