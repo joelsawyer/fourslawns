@@ -1475,6 +1475,13 @@ form div {
 	width: 100%;
 }
 
+.srp-widget-container a {
+	color: #FFF;
+}
+.srp-widget-container a:hover {
+	color: #06C;
+}
+
 .wpcf7-form select, .wpcf7-form input[type="text"], .wpcf7-form input[type="password"], .wpcf7-form textarea {
 	width: auto;
 }
